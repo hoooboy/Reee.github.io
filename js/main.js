@@ -1,3 +1,3 @@
 function myFuntion() {
- document.getElementById("demo").innerHTML = "You Hit Da Button!";
+ document.getElementById("demo").innerHTML = "u have been .........................!";
 }
